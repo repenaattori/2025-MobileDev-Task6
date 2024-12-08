@@ -1,0 +1,12 @@
+## Install dependencies
+npm install
+
+## Run tests to check if the answer is correct
+npm test
+
+## Task
+Create a three radiobutton selection for changing the box background color
+    - User color values 'red', 'yellow' and 'blue' and use this order in the radiobuttons
+    - Check the ColorSelection.png for reference
+    - The box is already defined. You have to find the way to change the box color when selecting between radiobuttons.
+
